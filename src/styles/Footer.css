@@ -1,0 +1,68 @@
+.footer {
+    width: 100%;
+    height: 200px;
+    background-color: #121619;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+  }
+
+.cegedim{
+    width:20%;
+    height:100%;
+    color:darkgray;
+}
+.cegedim h1{
+    font-weight: 600;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.cegedim p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.solutions{
+    width:20%;
+    height:100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color:darkgray;
+}
+.solutions h1{
+    font-weight: 600;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+.solutions p{
+    margin-top: -10px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.contact2{
+    width:20%;
+    height:100%;
+    color:darkgray;
+}
+.contact2 h1{
+    font-weight: 600;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.contact2 button{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.icons{
+    width:20%;
+    height:100%;
+    color:darkgray;
+}
+.icons h1{
+    font-weight: 600;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.icons .iconuud{
+    color:darkgray;
+    font-size: 30px;
+    cursor: pointer;
+}
+
+  

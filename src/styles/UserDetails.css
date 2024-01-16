@@ -1,0 +1,39 @@
+.Admin{
+    width:100%;
+    height:5%;
+    display:flex;
+    flex-direction: column;
+
+}
+.Admin-Menu{
+    width:100%;
+    height:10%;
+    display:flex;
+    justify-content: space-around;
+    font-size:15px;
+    text-align: center;
+    align-items: center;
+    background-color: white;
+}
+.Admin-Menu h2{
+    font-size:15px;
+}
+
+.Admin-Menu a{
+    text-decoration: none;
+    color:black;
+}
+.Admin-Menu button{
+    background-color: #e7e7e7; color: black; /* Green */
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+}
+.Admin-Menu button:hover{
+    background-color: #555555;;
+}
